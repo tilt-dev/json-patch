@@ -1,4 +1,4 @@
-module github.com/evanphx/json-patch
+module github.com/windmilleng/json-patch/v4
 
 go 1.12
 
